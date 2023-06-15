@@ -1,6 +1,6 @@
 ### 你好 Hi 😋
 
-I am a small potato level data engineer who are enthusiastic on burning\
+I am a small potato level data engineer who is enthusiastic on burning\
 down warehouses and infrastructure. My number one goal is to trigger your pagerduty\
 while making sure mine doesn't, such a lovely mate, am I.
 
