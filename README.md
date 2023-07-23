@@ -1,10 +1,18 @@
-### 你好 Hi 😋
+## 你好 Hi 😋
 
 I am a small potato level data engineer who is enthusiastic on burning\
 down warehouses and infrastructure. My number one goal is to trigger your pagerduty\
 while making sure mine doesn't, such a lovely mate, am I.
 
-My Code Journey:
+## Projects/Explorations
+### In-Progress Mode
+1. [fuse-mart](https://github.com/davionchai/fuse-mart) - Fully abstracted Batch/Streaming platform
+1. [de-tools](https://github.com/davionchai/de-tools) - Pipeline level explorations
+
+### Maintenance Mode
+1. [snowflake-was](https://github.com/davionchai/snowflake-was) - Auto scaling snowflake warehouses
+
+## My Code Journey:
 
 ```mermaid
 sequenceDiagram
@@ -22,15 +30,3 @@ sequenceDiagram
     8_yo_me-->>current_me: where coding starts
     current_me-->>8_yo_me: let's buy some bitcoin and not pizza
 ```
-
-### My favourite quotes
-1. 你全心全力做到的最好可能还不如我的随便搞搞
-2. 有时候你不努力一下，就不知道什么叫绝望
-
-<details>
-
-<summary>Tips for becoming a great data engineer</summary>
-  
-All in this [heaven's gate](https://www.youtube.com/watch?v=dQw4w9WgXcQ). << Click!
-
-</details>
