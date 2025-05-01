@@ -3,7 +3,7 @@
 
 I am a small employed potato who likes data engineering, site reliability, and basically anything related to software engineering.
 
-<img src="https://myreadme.vercel.app/api/embed/davionchai?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+![My stats](https://github-readme-stats.vercel.app/api?username=davionchai&show_icons=true&theme=transparent)
 
 ## My current road to AWS Golden Jacket status (2/12)
 <a href="https://www.credly.com/badges/e00dd1a0-ac6b-4a8f-9001-5b1731d156a0" target="_blank"><img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="credlybadge"  width="200"/></a>
